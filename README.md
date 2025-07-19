@@ -45,6 +45,7 @@ mrsool-chatbot/
 
 **Rawan Aldosari**  
 Generative AI Engineer & LLM Developer
+Rawan.ma27@gmail.com
 
 ---
 
